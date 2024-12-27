@@ -1,0 +1,26 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "2400",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "BMW M5",
+        "type": "CAR",
+        "price": "2040",
+        "image": "https:\/\/stimg.cardekho.com\/images\/carexteriorimages\/630x420\/BMW\/M5-2025\/11821\/1719462197562\/front-left-side-47.jpg?tr=w-664"
+    },
+    {
+        "name": "Porsche 911",
+        "type": "CAR",
+        "price": "4300",
+        "image": "https:\/\/stat.overdrive.in\/wp-content\/odgallery\/2020\/05\/56966_Porsche-911-Turbo-S_001.jpg"
+    },
+    {
+        "name": "Hero Honda",
+        "type": "BIKE",
+        "price": "1200",
+        "image": "https:\/\/th.bing.com\/th\/id\/OIP.OiKehyUcOBPwfO6YyasvLAAAAA?rs=1&pid=ImgDetMain"
+    }
+]
